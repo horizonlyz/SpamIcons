@@ -2,8 +2,6 @@
 It's just a simple code that spams all entire icons on your screen.
 This is intended for a [Von's Cover of Datastream](https://www.youtube.com/watch?v=iT7D6cJarew) for additional effects.
 
-Explanation
-
 ## Build
 Prerequisite:
 - Visual Studio 2019 - 2022
