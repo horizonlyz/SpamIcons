@@ -8,7 +8,7 @@ int WINAPI WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPSTR nCmdLine,
 	while (true) {
 		x = rand() % GetSystemMetrics(SM_CXSCREEN);
 		y = rand() % GetSystemMetrics(SM_CYSCREEN);
-		LPCWSTR icons[] = { IDI_APPLICATION, IDI_ASTERISK, IDI_EXCLAMATION, IDI_HAND, IDI_QUESTION, IDI_WINLOGO };
+		LPCWSTR icons[] = { IDI_APPLICATION, IDI_ASTERISK, IDI_EXCLAMATION, IDI_HAND, IDI_QUESTION, IDI_SHIELD, IDI_WINLOGO };
 		LPCWSTR ChoosenIcon = icons[rand() % ARRAYSIZE(icons)];
 		DrawIcon(hDc, x, y, LoadIcon(NULL, ChoosenIcon));
 		Sleep(40);
