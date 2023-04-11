@@ -1,6 +1,6 @@
 # SpamIcons
 It's just a simple code that spams all entire icons on your screen.
-This is intended for a [Von's Cover of Datastream](https://www.youtube.com/watch?v=iT7D6cJarew) for additional effects.
+This is intended for a [Von's Cover of Datastream](https://www.youtube.com/watch?v=iT7D6cJarew) for additional effects
 
 Also, if you are reading this Von, you can get this executable file if you build yourself, and you won't get detected by Defender.
 
@@ -13,6 +13,8 @@ Prerequisite:
 First, you need to clone the repository:
 
     git clone https://github.com/horizonlyz/SpamIcons.git
+
+or you can download the code by clicking Code > Download ZIP.
 
 and then you open SpamIcons Solution (SpamIcons.sln)
 
