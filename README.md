@@ -2,7 +2,7 @@
 It's just a simple code that spams all entire icons on your screen.
 This is intended for a [Von's Cover of Datastream](https://www.youtube.com/watch?v=iT7D6cJarew) for additional effects
 
-Also, if you are reading this Von, you can get this executable file if you build yourself, and you won't get detected by Defender.
+Also, if you are reading this Von, you can only get this executable file if you build it yourself, and Defender won't detected by this.
 
 ## Build
 Prerequisite:
