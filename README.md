@@ -1,8 +1,8 @@
-# SpamIcons
-It's just a simple code that spams all entire icons on your screen.
+# Datastreams Additional Effects
+This repo contains 2 solutions that make unique glitch effects in real-time, using BitBlt (StretchBlt is not getting used to but for blackness) and DrawIcon functions within GDI+
 This is intended for a [Von's Cover of Datastream](https://www.youtube.com/watch?v=emcjsOKu9Hk) for additional effects
 
-Also, if you are reading this Von, you can only get this executable file if you build it yourself, and Defender won't detected by this.
+[Demonstration](https://www.youtube.com/watch?v=-vyplq-2mlQ)
 
 ## Build
 Prerequisite:
@@ -12,10 +12,10 @@ Prerequisite:
 
 First, you need to clone the repository:
 
-    git clone https://github.com/horizonlyz/SpamIcons.git
+    git clone https://github.com/horizonlyz/DatastreamsGlitch.git
 
 or you can download the code by clicking Code > Download ZIP.
 
-and then you open SpamIcons Solution (SpamIcons.sln)
+and then you open SpamIcons or BitBlt Solution
 
 Make sure the solution configurations are set to "Release" and solution platforms also set to "x86" and then build by clicking Build > Build Solution. It should be on your release folders for the executable file itself.
