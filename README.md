@@ -1,6 +1,6 @@
 # Datastreams Additional Effects
 This repo contains 2 solutions that make unique glitch effects in real-time, using BitBlt (StretchBlt is not getting used to but for blackness) and DrawIcon functions within GDI+
-This is intended for a [Von's Cover of Datastream](https://www.youtube.com/watch?v=emcjsOKu9Hk) for additional effects
+This is intended for a [VoNoResp Cover](https://www.youtube.com/watch?v=emcjsOKu9Hk)
 
 [Demonstration](https://www.youtube.com/watch?v=-vyplq-2mlQ)
 
