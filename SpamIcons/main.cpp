@@ -13,6 +13,6 @@ int WINAPI WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPSTR nCmdLine,
 			}; // The shield icon wouldn't appears on Windows XP
 		LPCWSTR ChoosenIcon = icons[rand() % ARRAYSIZE(icons)];
 		DrawIcon(hDc, x, y, LoadIcon(NULL, ChoosenIcon));
-		Sleep(30);
+		Sleep(25);
 	}
 }
