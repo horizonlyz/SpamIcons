@@ -1,0 +1,8 @@
+C:\Users\Althariq Rifqi\source\repos\VoNoResp\VoNoResp\bin\Debug\VoNoResp.exe
+C:\Users\Althariq Rifqi\source\repos\VoNoResp\VoNoResp\bin\Debug\VoNoResp.pdb
+C:\Users\Althariq Rifqi\source\repos\VoNoResp\VoNoResp\obj\Debug\VoNoResp.csproj.AssemblyReference.cache
+C:\Users\Althariq Rifqi\source\repos\VoNoResp\VoNoResp\obj\Debug\VoNoResp.csproj.CoreCompileInputs.cache
+C:\Users\Althariq Rifqi\source\repos\VoNoResp\VoNoResp\obj\Debug\VoNoResp.exe
+C:\Users\Althariq Rifqi\source\repos\VoNoResp\VoNoResp\obj\Debug\VoNoResp.pdb
+C:\Users\Althariq Rifqi\source\repos\VoNoResp\VoNoResp\bin\Debug\VoNoResp.exe.config
+C:\Users\Althariq Rifqi\source\repos\VoNoResp\VoNoResp\obj\Debug\VoNoResp.csproj.SuggestedBindingRedirects.cache
