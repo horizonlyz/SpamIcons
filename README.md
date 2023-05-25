@@ -2,7 +2,7 @@
 This repo contains 3 solutions that make unique glitch effects in real-time, using BitBlt (StretchBlt is not getting used to but for blackness), PatBlt (written on C#), and DrawIcon functions within GDI+
 This is intended for a [VoNoResp Cover](https://youtu.be/AWxw3oHBFrw)
 
-Note: My code is absolutely shit
+Note: My code is absolutely shit. Pull requests would be appreciated (use [testing](https://github.com/horizonlyz/DatastreamsGlitch/tree/testing) branch).
 
 [Demonstration](https://www.youtube.com/watch?v=-vyplq-2mlQ)
 
